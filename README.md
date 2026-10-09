@@ -1,6 +1,6 @@
-# Beispiel 1
+# QGIS Karte
 # EP1 
 Monitoring Soziale Stadtentwicklung
-![Statusklasse.png](https://github.com/AntonHofmann2004/GIS/blob/main/Statusklasse.png?raw=true)
+![Karte_Statusklasse.png](https://github.com/AntonHofmann2004/GIS/blob/main/Karte_Statusklasse.png?raw=true)
 
 
