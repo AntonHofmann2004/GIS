@@ -4,4 +4,4 @@ Monitoring Soziale Stadtentwicklung
 ![Karte_Statusklasse.png](https://github.com/AntonHofmann2004/GIS/blob/main/Karte_Statusklasse.png?raw=true)
 
 # Bevölkerungsverteilungen Berlins
-
+![Berlin_LOR](https://github.com/AntonHofmann2004/GIS/blob/main/Berlin_LOR.png?raw=true)
